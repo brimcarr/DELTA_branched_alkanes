@@ -5,7 +5,7 @@ Package implementing the persistent homology code from the NSF-DELTA project. Th
 
 ## Outline
 
-This python package contains five modules:
+This python package contains six modules:
 * Characterization for 32 - Gives the methods for distributing the critical points of an energy landscape for a molecule with internal bonds of type 32 into classes and calculates the number of critical points in each class. There is also a function that will characterize the sublevelset persistence barcode for energy landscapes for molecules consisting exclusively of internal bonds of type 3-2.
 * Characterization for 32 22 - Same as above, but for molecules with internal bonds of types 3-2 and 2-2.
 * Forked Alkane Energy - provides methods for computing the energy landscapes of the branched alkane series, using the formulae provided by Biswajit Sadhu.
