@@ -1,4 +1,4 @@
-# deltapersistence
+# DELTA_branched_alkanes
 
 Package implementing the persistent homology code from the NSF-DELTA project. This was modified to work with the added bond types.
 
