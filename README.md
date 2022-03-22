@@ -57,4 +57,5 @@ Periodically (when the code is "complete" up to some set of features) we will co
 
 For full documentation of the original code, see https://jrmirth.gitlab.io/deltapersistence/
 For full documentation of the modified code, see https://github.com/brimcarr/DELTA_branched_alkanes/
+This code accompanies the paper \textit{Molecular configurations and persistence: Additive energies and branched alkanes} by Henry Adams, Aurora Clark, Biswajit Sadhu, and Brittany Story
 
